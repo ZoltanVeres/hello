@@ -1,6 +1,7 @@
 ---
 title: A scheduled post
 date: '2022-06-18'
+draft: true
 tags:
   - demo-content
   - simple-post
